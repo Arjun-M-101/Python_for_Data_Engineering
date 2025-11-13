@@ -1,0 +1,48 @@
+# Python
+__pycache/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+venv/
+venv_spark/
+.env/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Airflow
+airflow.db
+airflow.cfg
+unittests.cfg
+webserver_config.py
+simple_auth_manager_passwords.json.generated
+
+# Spark checkpoints / temp
+spark-warehouse/
+metastore_db/
+.derby/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Airflow
+airflow.db-shm
+airflow.db-wal
+
+# IDE
+.vscode/
+.idea/
+
+# requirements-lock.txt
+requirements-lock.txt

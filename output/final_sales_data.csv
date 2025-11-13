@@ -1,0 +1,7 @@
+OrderID,CustID,Product,Quantity,Price,Date,Total,Year,Month,Discount,Discounted_Total,Name,City,Gender,Category,GenderFull
+101,1,Laptop,1.0,70000,2024-06-12,70000.0,2024,June,0.1,63000.0,Arjun,Chennai,M,Electronics,Male
+102,2,Phone,2.0,30000,2024-06-13,60000.0,2024,June,0.05,57000.0,Gokul,Bangalore,M,Electronics,Male
+103,3,Tablet,1.0,15000,2024-06-13,15000.0,2024,June,0.05,14250.0,Pritha,Hyderabad,F,Electronics,Female
+104,2,Phone,1.0,30000,2024-06-14,30000.0,2024,June,0.05,28500.0,Gokul,Bangalore,M,Electronics,Male
+105,4,Laptop,3.0,70000,2024-06-15,210000.0,2024,June,0.1,189000.0,Krithi,Chennai,F,Electronics,Female
+106,1,Laptop,2.0,70000,2024-06-16,140000.0,2024,June,0.1,126000.0,Arjun,Chennai,M,Electronics,Male

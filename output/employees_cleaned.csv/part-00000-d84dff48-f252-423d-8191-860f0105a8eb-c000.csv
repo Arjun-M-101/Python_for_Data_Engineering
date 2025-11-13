@@ -1,0 +1,5 @@
+ID,Name,City,Salary,Dept,Level,CurrentDate,Year,NameLength,Region
+1,Arjun,Chennai,70000,Engineering,Medium,2025-11-13,2025,5,South
+2,Gokul,Bangalore,85000,HR,High,2025-11-13,2025,5,South
+3,Pritha,Hyderabad,60000,Finance,Low,2025-11-13,2025,6,Other
+4,Krithi,Chennai,95000,Admin,High,2025-11-13,2025,6,South

@@ -1,0 +1,4 @@
+{"ID":1,"Name":"Arjun","City":"Chennai","Salary":70000,"Dept":"Engineering","Level":"Medium","CurrentDate":"2025-11-13","Year":2025,"NameLength":5,"Region":"South"}
+{"ID":2,"Name":"Gokul","City":"Bangalore","Salary":85000,"Dept":"HR","Level":"High","CurrentDate":"2025-11-13","Year":2025,"NameLength":5,"Region":"South"}
+{"ID":3,"Name":"Pritha","City":"Hyderabad","Salary":60000,"Dept":"Finance","Level":"Low","CurrentDate":"2025-11-13","Year":2025,"NameLength":6,"Region":"Other"}
+{"ID":4,"Name":"Krithi","City":"Chennai","Salary":95000,"Dept":"Admin","Level":"High","CurrentDate":"2025-11-13","Year":2025,"NameLength":6,"Region":"South"}
