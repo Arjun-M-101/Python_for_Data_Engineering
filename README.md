@@ -1,4 +1,3 @@
-```markdown
 # 🐍 Python for Data Engineering
 
 ## 🚀 Overview
