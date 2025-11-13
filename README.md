@@ -9,6 +9,7 @@ It is organized into phases, each focusing on a specific skill set, culminating 
 ---
 
 ## 📂 Folder Structure
+
 ```
 python_for_data_engineering/
 ├── 0.Phase_0_Basic_Python.py        # User input/output, data types, loops, functions
