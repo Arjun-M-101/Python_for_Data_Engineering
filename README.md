@@ -15,8 +15,9 @@ python_for_data_engineering/
 ├── 1.Phase_1_Core_Python.py         # Collections, comprehensions, file handling, error handling
 ├── 2.Phase_2_Pandas.py              # Pandas for DE: cleaning, transformations, joins, aggregations
 ├── 3.Phase_3_PySpark.py             # PySpark for DE: schema, cleaning, joins, aggregations, ETL
-├── 4.Phase_4_Modularization_OOPs_Logging.py # Modular ETL with utils + logging
-├── 5.Phase_5_Projects.py            # Batch & streaming pipeline projects (reference)
+├── 4.Phase_4_Python_Transformations_Cheatsheet
+├── 5.Phase_5_Modularization_OOPs_Logging.py # Modular ETL with utils + logging
+├── 6.Phase_6_Projects.py            # Batch & streaming pipeline projects (reference)
 ├── utils.py                         # Helper functions for ETL (extract, transform, load)
 ├── logger.py                        # Logging setup for ETL pipelines
 ├── etl_pipeline.py                  # OOP-based ETL pipeline class
