@@ -10,6 +10,7 @@ print("Original:", nums)
 nums.append(60)                   # Add item
 nums.insert(0, 5)                 # Insert at start
 nums.remove(30)                   # Remove element
+nums.pop()                        # Pop last element
 nums.reverse()                    # Reverse list
 print("After modifications:", nums)
 
