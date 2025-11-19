@@ -193,6 +193,7 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s:%(message)s")
 def etl_process(input_file, output_file):
     start = time.time()
     try:
+        # Extract
         with open(input_file, 'r') as f:
             reader = csv.DictReader(f)
             rows = [row for row in reader]
@@ -201,6 +202,7 @@ def etl_process(input_file, output_file):
         for r in rows:
             r["Total"] = float(r["Age"]) * 1.5
 
+        # Load
         with open(output_file, 'w', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=["Name", "Age", "City", "Total"])
             writer.writeheader()
