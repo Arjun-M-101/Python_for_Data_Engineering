@@ -215,4 +215,27 @@ def etl_process(input_file, output_file):
 
 etl_process("input/people.csv", "output/transformed.csv")
 
+'''
+SUMMARY
+=======
+
+CSV
+
+- DictWriter(), DictReader()
+- expects writeheader(), writerows()
+
+JSON
+
+- dump(), load()
+- loads() to read from text
+
+TXT
+
+- write(), read(), readlines()
+
+DATAFRAME
+
+- df = pd.DataFrame(data)
+'''
+
 
