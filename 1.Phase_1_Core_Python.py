@@ -216,8 +216,8 @@ def etl_process(input_file, output_file):
 etl_process("input/people.csv", "output/transformed.csv")
 
 '''
-SUMMARY
-=======
+SUMMARY - IMPORTANT
+===================
 
 CSV
 
