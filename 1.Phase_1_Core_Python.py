@@ -109,11 +109,13 @@ print("\nJSON file created successfully ✅")
 with open('input/data.json', 'r') as f:
     content = json.load(f)
 print("JSON Read Result:", content)
+# json.load → Reads/decodes JSON from a file object
 
 # --- Convert JSON string ---
 json_str = '{"Name": "Krithi", "Role": "Lawyer"}'
 parsed = json.loads(json_str)
 print("Converted from JSON string:", parsed["Name"])
+# json.loads → Reads/decodes JSON from a string
 
 # TXT FILE HANDLING
 
