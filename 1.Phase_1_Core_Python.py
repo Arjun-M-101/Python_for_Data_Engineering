@@ -172,6 +172,7 @@ def clean_df(df):
 from utils import clean_df
 import pandas as pd
 
+# Dataframes
 data = {
     "Item": ["Pen", "Book", "Pencil"],
     "Price": [10, 40, 5],
